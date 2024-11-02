@@ -1,3 +1,6 @@
 gspread
 google-auth
 pandas
+pyqt5
+matplotlib
+mplcursors
